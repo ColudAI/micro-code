@@ -1,6 +1,6 @@
-# Wey micro code
+# micro code
 
-Wey micro code is an editor based on Boxy and various project combinations
+micro code is an editor based on Boxy and various project combinations
 
 ## Wey micro code introduction
 ## In this tutorial, we will guide you through the basic functions of Wey micro code
